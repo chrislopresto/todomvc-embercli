@@ -10,6 +10,7 @@ Router.map(function() {
     path: '/'
   }, function() {
     this.route('active');
+    this.route('completed');
   });
 });
 
