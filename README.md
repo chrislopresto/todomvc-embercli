@@ -1,7 +1,14 @@
-# Todomvc-embercli
+# Getting Started With ember-cli
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is an [ember-cli](http://www.ember-cli.com/) implementation of [TodoMVC](http://todomvc.com/).
+
+Each commit corresponds to a single step in the Ember [Getting Started](http://guides.emberjs.com/v1.10.0/getting-started/) guide.
+
+Commit descriptions include any corresponding [ember-cli generator](http://www.ember-cli.com/#generators-and-blueprints) and [addon](http://www.emberaddons.com/) install commands.
+
+Check out [Ryan LaBouve's screencast](https://youtu.be/tonV3G2cPrA) for a walkthrough of the entire process. He explains each step thoroughly and does not use any generators along the way.
+
+[![](http://img.youtube.com/vi/tonV3G2cPrA/0.jpg)](http://www.youtube.com/watch?v=tonV3G2cPrA)
 
 ## Prerequisites
 
